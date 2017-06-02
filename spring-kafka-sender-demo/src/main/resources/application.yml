@@ -1,0 +1,4 @@
+topic:
+  boot: SriTopic
+server:
+  port: 8081
